@@ -1,4 +1,4 @@
-package 常用API;
+package 常用API_08;
 
 import java.util.Random;
 
