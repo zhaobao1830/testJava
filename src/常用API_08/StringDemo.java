@@ -1,5 +1,8 @@
 package 常用API_08;
 
+/**
+ * 字符串对象构造方法创建和直接赋值
+ */
 public class StringDemo {
     public static void main(String[] args) {
         // 把字符串数据封装成字符串对象
