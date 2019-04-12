@@ -1,9 +1,9 @@
 package 常用API_08;
 
 /**
- * String的各种方法
+ * String的对比方法
  */
-public class StringMethodsDemo {
+public class StringMethodsDemo_01 {
     /**
      * String
      * equals和==的区别
