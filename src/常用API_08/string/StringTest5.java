@@ -1,4 +1,4 @@
-package 常用API_08;
+package 常用API_08.string;
 
 /**
  * 把数组拼接成一个字符串

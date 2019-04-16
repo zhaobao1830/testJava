@@ -1,4 +1,4 @@
-package 常用API_08;
+package 常用API_08.string;
 
 public class StringBuffer1 {
     public static void main(String[] args) {

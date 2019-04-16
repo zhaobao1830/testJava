@@ -1,4 +1,4 @@
-package 常用API_08;
+package 常用API_08.string;
 
 /**
  * String的对比方法

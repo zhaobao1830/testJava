@@ -1,4 +1,4 @@
-package 常用API_08;
+package 常用API_08.string;
 
 /**
  * 字符串对象构造方法创建和直接赋值
