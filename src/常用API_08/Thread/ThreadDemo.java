@@ -1,5 +1,8 @@
 package 常用API_08.Thread;
 
+/**
+ * 创建多线程的第一种方法
+ */
 public class ThreadDemo {
     public static void main(String[] args) {
         // 创建线城实例
